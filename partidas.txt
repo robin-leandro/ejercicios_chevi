@@ -1,0 +1,12 @@
+R P
+P S
+S R
+p P
+P P
+s P
+S R
+R P
+R R
+S P
+P R
+R S
